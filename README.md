@@ -1,2 +1,2 @@
-Sunrise theme for Oh My Zsh
-!http://i.imgur.com/pSh35Cl.png!
+## Sunrise theme for Oh My Zsh
+![Sunrise Theme](http://i.imgur.com/n7nZSLp.png)
